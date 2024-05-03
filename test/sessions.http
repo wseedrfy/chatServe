@@ -1,0 +1,7 @@
+POST http://localhost:4000/sessions/all
+Content-Type: application/json
+
+{
+  "userId": "babb398f-017c-4f9a-9652-e160f866a1b7",
+  "role": "customer"
+}
